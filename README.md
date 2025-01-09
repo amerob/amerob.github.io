@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 My portfolio website [https://amerob.github.io]((https://amerob.github.io))
+- 👨‍💻 My portfolio website [https://amerob.github.io](https://amerob.github.io)
 
 - 📫 How to reach me **tobepublished9@gmail.com**
 
