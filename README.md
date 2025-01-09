@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Amer Hussein</h1>
 <h3 align="center">A Data Scientist & Robotics Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/amerob/amerob.github.io/blob/main/coding.gif>
+<img align="right" alt="Coding" width="400" src="[https://github.com/amerob/amerob.github.io/blob/main/coding.gif](https://raw.githubusercontent.com/amerob/amerob.github.io/main/coding.gif
+
+)>
 
 - 🔭 I’m currently seeking roles in **Data Science and Machine Learning**
 
